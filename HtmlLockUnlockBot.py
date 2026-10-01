@@ -14,7 +14,7 @@ from telegram.ext import (
 )
 
 # ----------------- CONFIGURATION -----------------
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE"  # আপনার বটের আসল টোকেন দিন
+BOT_TOKEN = "8788531918:AAEqCUN-Yl1WWTQK1F7OihD9TIthDtAMsCU"  # আপনার বটের আসল টোকেন দিন
 DEFAULT_OWNER_ID = 8289191009
 DEFAULT_OWNER_USERNAME = "@SABBIRBD0"
 DEFAULT_BOT_USERNAME = "@SABBIR_OBF_BOT"
